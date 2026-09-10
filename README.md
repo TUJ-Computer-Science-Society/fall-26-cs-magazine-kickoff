@@ -2,6 +2,10 @@
 
 The initial kickoff presentation slides for members to see for Fall 2026's TUJ Computer Science Magazine.
 
+# Pre-requisites
+
+You will need Tex and pdflatex to be able to compile this LaTex file.  
+
 # Running Instructions
 Want to compile and run the LaTex file locally? You will have to compile using pdflatex at least three times for all Beamer references, table of contents, and frames to update.
 
