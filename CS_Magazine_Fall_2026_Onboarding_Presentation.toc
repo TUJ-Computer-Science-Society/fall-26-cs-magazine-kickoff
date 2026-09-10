@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{The TUJ CS Magazine}{3}{0}{1}
+\beamer@sectionintoc {2}{CS Magazine Team Leaders}{6}{0}{2}
+\beamer@sectionintoc {3}{What we do}{29}{0}{3}
+\beamer@sectionintoc {4}{Plan for this Semester}{35}{0}{4}
+\beamer@sectionintoc {5}{Magazine Timeline}{43}{0}{5}
+\beamer@sectionintoc {6}{The Team}{69}{0}{6}
+\beamer@sectionintoc {7}{Magazine Sections}{75}{0}{7}
